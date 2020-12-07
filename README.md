@@ -1,2 +1,6 @@
-# ptero_java13
-java 13 for ptero (dockerfile)
+# Containers List
+
+## For push :
+```bash
+docker build git://github.com/systeme-cardinal/pteroeggs#branch
+```
