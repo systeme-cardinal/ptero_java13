@@ -4,7 +4,7 @@
 # Minimum Panel Version: 1.1.1
 # ----------------------------------
 
-FROM        openjdk:15.0.2-oracle
+FROM        openjdk:15.0.2-buster
 
 LABEL       author="Bierque Jason" maintainer="bierquejason@gmail.com"
 
